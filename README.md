@@ -2,5 +2,5 @@
 Utilizamos o snack.expo.dev e o Expo go no celular para vizualizar o projeto, aqui esta uma foto de como ficou nosso app.👇
 
 <p align="center">
-  <img alt="Print" src="https://github.com/GabrielVesal/Resume/blob/89abc0eb9564a5497c7e971d047627803c8d17f3/Print%20resume.png">
+  <img alt="Print" src="https://github.com/GabrielVesal/nada/blob/eed1f446764d17a9fe4b8e8be91e6e6666996048/Captura%20de%20tela%202023-11-24%20102419.png">
 </p> 
